@@ -1,0 +1,19 @@
+{
+  "name": "assessment",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {},
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  
+  "dependencies": {
+    "dotenv": "^16.4.7",
+    "eslint": "^9.19.0",
+    "prettier": "^3.4.2",
+    "@playwright/test": "^1.50.1",
+    "@types/node": "^22.13.1",
+    "eslint-plugin-playwright": "^2.2.0"
+  }
+}
